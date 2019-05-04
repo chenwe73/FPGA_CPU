@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\simulation\modelsim
+vprocessor
+!s100 8[_IL_Pn]`g`c_aB@MU1X3
+ISC>mh@JlE6E@M=]AEU82N1
+VE[2V;Hi>C_nc6Q2IJGS@N3
+Z1 dC:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\simulation\modelsim
+w1459024229
+8C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v
+FC:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v
+L0 1
+OV;L;10.0c;49
+r1
+!s85 0
+31
+!s108 1459028361.520000
+!s107 C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC|C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC} -O0

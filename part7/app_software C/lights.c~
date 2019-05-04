@@ -1,0 +1,33 @@
+#define Switches (volatile char *) 	0x0003030
+#define LEDs (char *) 				0x0003020
+
+#define mode (char *) 			0x0003000
+#define status (char *) 		0x0003004
+#define go (char *) 			0x0003008
+#define line_start (char *) 	0x000300C
+#define line_end (char *) 		0x0003010
+#define line_colour (char *) 	0x0003014
+
+
+void main()
+{
+	int i;
+
+	int x0 = 0x2;
+	int y0 = 0x2;
+	int x1 = 0xf;
+	int y1 = 0xf;
+	
+	*mode = 0x0;
+	*line_start = 0x0;
+	*line_end = 0x0f08;
+	*line_colour = 0x2;
+
+	
+	while (1)
+	{
+		*LEDs = *Switches;
+		if (*Switches & 0x1 == 0x1)
+			*go = 0x1;
+	}
+}

@@ -1,0 +1,9 @@
+
+State Machine - |peripheral|LDA:comb_5|FSM:fsm|y_Q
+Name y_Q.Done y_Q.Draw y_Q.Setup3 y_Q.Setup2 y_Q.Setup y_Q.Idle 
+y_Q.Idle 0 0 0 0 0 0 
+y_Q.Setup 0 0 0 0 1 1 
+y_Q.Setup2 0 0 0 1 0 1 
+y_Q.Setup3 0 0 1 0 0 1 
+y_Q.Draw 0 1 0 0 0 1 
+y_Q.Done 1 0 0 0 0 1 

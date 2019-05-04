@@ -1,0 +1,9 @@
+module AMC (Clock, ADDR, DOUT, W, DIN);
+	input Clock;
+	input [15:0] ADDR, DOUT;
+	input W;
+	output [15:0] DIN;
+
+	
+	
+endmodule

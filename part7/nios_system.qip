@@ -1,0 +1,22 @@
+# clk
+# onchip_memory2_0
+# SW
+set_global_assignment -name TCL_FILE [file join $::quartus(ip_rootpath) University_Program/Input_Output/altera_up_avalon_parallel_port/altera_up_avalon_parallel_port_hw.tcl]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) SW.v]
+# LED
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) LED.v]
+# SEGDISP
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) SEGDISP.v]
+# processor_0
+set_global_assignment -name TCL_FILE [file join $::quartus(qip_path) processor_hw.tcl]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) processor.v]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) processor_0.v]
+# null
+# peripheral_0
+set_global_assignment -name TCL_FILE [file join $::quartus(qip_path) peripheral/peripheral_hw.tcl]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) peripheral/peripheral.v]
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) peripheral_0.v]
+set_global_assignment -name SOPC_BUILDER_SIGNATURE_ID "08606E0515C700000153B984B1A2"
+set_global_assignment -entity "nios_system" -name IP_TOOL_NAME "sopc"
+set_global_assignment -entity "nios_system" -name IP_TOOL_VERSION "11.1sp2"
+set_global_assignment -entity "nios_system" -name IP_TOOL_ENV "sopc"

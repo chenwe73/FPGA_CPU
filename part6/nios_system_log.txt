@@ -1,0 +1,44 @@
+Altera SOPC Builder Version 11.12 Build 259
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2016.03.27 13:08:33 (*) mk_custom_sdk starting
+# 2016.03.27 13:08:33 (*) Reading project C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/nios_system.ptf.
+
+# 2016.03.27 13:08:33 (*) Finding all CPUs
+# 2016.03.27 13:08:33 (*) Finding all peripherals
+
+# 2016.03.27 13:08:33 (*) Finding software components
+# 2016.03.27 13:08:33 (*) (Legacy SDK Generation Skipped)
+# 2016.03.27 13:08:33 (*) (All TCL Script Generation Skipped)
+# 2016.03.27 13:08:33 (*) (No Libraries Built)
+# 2016.03.27 13:08:33 (*) (Contents Generation Skipped)
+# 2016.03.27 13:08:33 (*) mk_custom_sdk finishing
+# 2016.03.27 13:08:33 (*) Starting generation for system: nios_system.
+
+.
+
+# 2016.03.27 13:08:33 (*) Running Generator Program for onchip_memory2_0
+
+
+# 2016.03.27 13:08:33 (*) Making arbitration and system (top) modules.
+
+# 2016.03.27 13:08:34 (*) Generating Quartus symbol for top level: nios_system
+
+# 2016.03.27 13:08:34 (*) Symbol C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/nios_system.bsf already exists, no need to regenerate
+# 2016.03.27 13:08:34 (*) Creating command-line system-generation script: C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/nios_system_generation_script
+
+# 2016.03.27 13:08:34 (*) Running setup for HDL simulator: modelsim
+
+
+# 2016.03.27 13:08:34 (*) Completed generation for system: nios_system.
+# 2016.03.27 13:08:34 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/nios_system.ptf 
+  System HDL Model : C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/nios_system.v 
+  System Generation Script : C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/nios_system_generation_script 
+
+# 2016.03.27 13:08:34 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.

@@ -1,0 +1,18 @@
+module counter (mem_addr, MClock, resetN);
+	output [4:0] mem_addr;
+	input MClock;
+	input resetN;
+	
+	reg [4:0] result;
+	
+	always@(posedge MClock or resetN)begin
+		if (resetN) begin
+			result <= {5{1'b0}};
+		end
+		else begin
+			result <= result + 1;
+		end
+	end
+	
+	assign mem_addr[4:0] = result[4:0];
+endmodule

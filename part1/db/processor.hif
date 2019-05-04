@@ -1,0 +1,341 @@
+Quartus II 32-bit
+Version 11.1 Build 259 01/25/2012 Service Pack 2 SJ Web Edition
+14
+1343
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+processor
+# storage
+db|processor.(0).cnf
+db|processor.(0).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+processor.v
+547a6edd8cf84d848071e655d67da56b
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# entity
+upcount
+# storage
+db|processor.(2).cnf
+db|processor.(2).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+datapath.v
+681adea4ff23d27c339e9db7d30fc56
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# hierarchies {
+proc:comb_3|upcount:Tstep
+}
+# macro_sequence
+
+# end
+# entity
+dec3to8
+# storage
+db|processor.(3).cnf
+db|processor.(3).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+datapath.v
+681adea4ff23d27c339e9db7d30fc56
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# hierarchies {
+proc:comb_3|dec3to8:decX
+proc:comb_3|dec3to8:decY
+}
+# macro_sequence
+
+# end
+# entity
+regn
+# storage
+db|processor.(4).cnf
+db|processor.(4).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+datapath.v
+681adea4ff23d27c339e9db7d30fc56
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# user_parameter {
+n
+16
+PARAMETER_SIGNED_DEC
+DEF
+}
+# hierarchies {
+proc:comb_3|regn:reg_0
+proc:comb_3|regn:reg_1
+proc:comb_3|regn:reg_2
+proc:comb_3|regn:reg_3
+proc:comb_3|regn:reg_4
+proc:comb_3|regn:reg_5
+proc:comb_3|regn:reg_6
+proc:comb_3|regn:reg_7
+proc:comb_3|regn:reg_A
+proc:comb_3|regn:reg_G
+}
+# macro_sequence
+
+# end
+# entity
+regn
+# storage
+db|processor.(5).cnf
+db|processor.(5).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+datapath.v
+681adea4ff23d27c339e9db7d30fc56
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# user_parameter {
+n
+9
+PARAMETER_SIGNED_DEC
+USR
+}
+# hierarchies {
+proc:comb_3|regn:reg_IR
+}
+# macro_sequence
+
+# end
+# entity
+ALU
+# storage
+db|processor.(6).cnf
+db|processor.(6).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+datapath.v
+681adea4ff23d27c339e9db7d30fc56
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# hierarchies {
+proc:comb_3|ALU:alu
+}
+# macro_sequence
+
+# end
+# entity
+proc
+# storage
+db|processor.(1).cnf
+db|processor.(1).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_sensitive
+# source_file
+proc.v
+afb4eb167d8fad19104ac45b9af4f1
+8
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+IGNORE_VERILOG_INITIAL_CONSTRUCTS
+OFF
+VERILOG_CONSTANT_LOOP_LIMIT
+5000
+VERILOG_NON_CONSTANT_LOOP_LIMIT
+250
+}
+# user_parameter {
+R0out
+1000000000
+PARAMETER_UNSIGNED_BIN
+DEF
+R1out
+0100000000
+PARAMETER_UNSIGNED_BIN
+DEF
+R2out
+0010000000
+PARAMETER_UNSIGNED_BIN
+DEF
+R3out
+0001000000
+PARAMETER_UNSIGNED_BIN
+DEF
+R4out
+0000100000
+PARAMETER_UNSIGNED_BIN
+DEF
+R5out
+0000010000
+PARAMETER_UNSIGNED_BIN
+DEF
+R6out
+0000001000
+PARAMETER_UNSIGNED_BIN
+DEF
+R7out
+0000000100
+PARAMETER_UNSIGNED_BIN
+DEF
+Gout
+0000000010
+PARAMETER_UNSIGNED_BIN
+DEF
+DINout
+0000000001
+PARAMETER_UNSIGNED_BIN
+DEF
+}
+# hierarchies {
+proc:comb_3
+}
+# macro_sequence
+
+# end
+# complete
+

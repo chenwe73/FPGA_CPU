@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'KEY[0]'
+Slack : -6.747
+TNS   : -917.650
+
+Type  : Slow Model Setup 'proc:p|regn:reg_IR|Q[7]'
+Slack : -2.696
+TNS   : -49.746
+
+Type  : Slow Model Setup 'KEY[1]'
+Slack : -0.732
+TNS   : -3.216
+
+Type  : Slow Model Hold 'proc:p|regn:reg_IR|Q[7]'
+Slack : -2.364
+TNS   : -36.286
+
+Type  : Slow Model Hold 'KEY[0]'
+Slack : -2.034
+TNS   : -4.068
+
+Type  : Slow Model Hold 'KEY[1]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'KEY[1]'
+Slack : -1.423
+TNS   : -20.452
+
+Type  : Slow Model Minimum Pulse Width 'KEY[0]'
+Slack : -1.222
+TNS   : -172.222
+
+Type  : Slow Model Minimum Pulse Width 'proc:p|regn:reg_IR|Q[7]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'KEY[0]'
+Slack : -2.766
+TNS   : -384.310
+
+Type  : Fast Model Setup 'proc:p|regn:reg_IR|Q[7]'
+Slack : -0.827
+TNS   : -14.100
+
+Type  : Fast Model Setup 'KEY[1]'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Fast Model Hold 'proc:p|regn:reg_IR|Q[7]'
+Slack : -1.443
+TNS   : -23.609
+
+Type  : Fast Model Hold 'KEY[0]'
+Slack : -1.253
+TNS   : -2.499
+
+Type  : Fast Model Hold 'KEY[1]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'KEY[1]'
+Slack : -1.423
+TNS   : -20.452
+
+Type  : Fast Model Minimum Pulse Width 'KEY[0]'
+Slack : -1.222
+TNS   : -172.222
+
+Type  : Fast Model Minimum Pulse Width 'proc:p|regn:reg_IR|Q[7]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

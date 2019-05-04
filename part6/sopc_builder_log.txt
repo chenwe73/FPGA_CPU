@@ -1,0 +1,120 @@
+Mar 27, 2016 11:52:02 AM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0001_sopcqmap/
+Mar 27, 2016 12:16:28 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0002_sopcqmap/
+Mar 27, 2016 12:25:41 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0003_sopcqmap/
+Mar 27, 2016 12:25:42 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0004_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=SW
+Mar 27, 2016 12:25:43 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0005_sopcqmap/
+Mar 27, 2016 12:25:44 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0006_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=LED
+Mar 27, 2016 12:25:46 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0007_sopcqmap/
+Mar 27, 2016 12:25:47 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0008_sopcqmap/
+Mar 27, 2016 12:25:48 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:\altera\11.1sp2\quartus//bin/quartus_sh.exe -t sopc_add_qip_file.tcl
+Mar 27, 2016 12:25:49 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --no_splash --refresh C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 12:25:54 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --generate C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 12:52:44 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0009_sopcqmap/
+Mar 27, 2016 12:52:45 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0010_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=SW
+Mar 27, 2016 12:52:47 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0011_sopcqmap/
+Mar 27, 2016 12:52:48 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0012_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=LED
+Mar 27, 2016 12:52:49 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0013_sopcqmap/
+Mar 27, 2016 12:52:50 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor_0.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0014_sopcqmap/
+Mar 27, 2016 12:52:52 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:\altera\11.1sp2\quartus//bin/quartus_sh.exe -t sopc_add_qip_file.tcl
+Mar 27, 2016 12:52:52 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --no_splash --refresh C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 12:52:58 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --generate C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 12:59:38 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0015_sopcqmap/
+Mar 27, 2016 12:59:39 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0016_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=SW
+Mar 27, 2016 12:59:40 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0017_sopcqmap/
+Mar 27, 2016 12:59:41 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0018_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=LED
+Mar 27, 2016 12:59:43 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0019_sopcqmap/
+Mar 27, 2016 12:59:44 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0020_sopcqmap/
+Mar 27, 2016 12:59:45 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor_0.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0021_sopcqmap/
+Mar 27, 2016 12:59:46 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:\altera\11.1sp2\quartus//bin/quartus_sh.exe -t sopc_add_qip_file.tcl
+Mar 27, 2016 12:59:47 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --no_splash --refresh C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 12:59:52 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --generate C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 1:01:01 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0022_sopcqmap/
+Mar 27, 2016 1:01:02 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0023_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=SW
+Mar 27, 2016 1:01:04 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0024_sopcqmap/
+Mar 27, 2016 1:01:05 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0025_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=LED
+Mar 27, 2016 1:01:06 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0026_sopcqmap/
+Mar 27, 2016 1:01:07 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0027_sopcqmap/
+Mar 27, 2016 1:01:09 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor_0.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0028_sopcqmap/
+Mar 27, 2016 1:01:10 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:\altera\11.1sp2\quartus//bin/quartus_sh.exe -t sopc_add_qip_file.tcl
+Mar 27, 2016 1:01:10 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --no_splash --refresh C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 1:01:16 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --generate C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 1:03:24 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0029_sopcqmap/
+Mar 27, 2016 1:03:26 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0030_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=SW
+Mar 27, 2016 1:03:27 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0031_sopcqmap/
+Mar 27, 2016 1:03:28 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0032_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=LED
+Mar 27, 2016 1:03:29 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0033_sopcqmap/
+Mar 27, 2016 1:03:31 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0034_sopcqmap/
+Mar 27, 2016 1:03:32 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor_0.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0035_sopcqmap/
+Mar 27, 2016 1:03:33 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:\altera\11.1sp2\quartus//bin/quartus_sh.exe -t sopc_add_qip_file.tcl
+Mar 27, 2016 1:03:33 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --no_splash --refresh C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 1:03:39 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --generate C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 1:08:12 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0036_sopcqmap/
+Mar 27, 2016 1:08:13 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\SW.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SW.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0037_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=SW
+Mar 27, 2016 1:08:15 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0038_sopcqmap/
+Mar 27, 2016 1:08:16 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:\Users\Tommy\workspaces\Quartus II\lab6\SOPC\LED.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/LED.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0039_sopcqmap/ --set=HDL_INTERFACE_INSTANCE_NAME=inst --set=HDL_INTERFACE_INSTANCE_ENTITY=LED
+Mar 27, 2016 1:08:17 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/SEGDISP.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0040_sopcqmap/
+Mar 27, 2016 1:08:18 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0041_sopcqmap/
+Mar 27, 2016 1:08:20 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1sp2/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor_0.v --source=C:/Users/Tommy/workspaces/Quartus II/lab6/SOPC/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/Tommy/AppData/Local/Temp/alt6887_4228613803420619684.dir/0042_sopcqmap/
+Mar 27, 2016 1:08:21 PM com.altera.utilities.Launcher launch
+INFO: Launching:c:\altera\11.1sp2\quartus//bin/quartus_sh.exe -t sopc_add_qip_file.tcl
+Mar 27, 2016 1:08:21 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --no_splash --refresh C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf
+Mar 27, 2016 1:08:27 PM com.altera.utilities.Launcher launch
+INFO: Launching:C:/altera/11.1sp2/quartus/bin/cygwin/bin/sh.exe -c . C:/altera/11.1sp2/quartus/sopc_builder/bin/nios_sh ; C:/altera/11.1sp2/quartus/sopc_builder/bin/sopc_builder --classic --generate C:/Users/Tommy/workspaces/Quartus\ II/lab6/SOPC/nios_system.ptf

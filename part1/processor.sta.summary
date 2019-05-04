@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'KEY[0]'
+Slack : -7.145
+TNS   : -906.952
+
+Type  : Slow Model Setup 'proc:comb_3|regn:reg_IR|Q[7]'
+Slack : -4.774
+TNS   : -65.997
+
+Type  : Slow Model Hold 'proc:comb_3|regn:reg_IR|Q[7]'
+Slack : -1.996
+TNS   : -26.324
+
+Type  : Slow Model Hold 'KEY[0]'
+Slack : -1.369
+TNS   : -2.737
+
+Type  : Slow Model Minimum Pulse Width 'KEY[0]'
+Slack : -1.222
+TNS   : -172.222
+
+Type  : Slow Model Minimum Pulse Width 'proc:comb_3|regn:reg_IR|Q[7]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'KEY[0]'
+Slack : -2.829
+TNS   : -350.436
+
+Type  : Fast Model Setup 'proc:comb_3|regn:reg_IR|Q[7]'
+Slack : -1.887
+TNS   : -23.525
+
+Type  : Fast Model Hold 'proc:comb_3|regn:reg_IR|Q[7]'
+Slack : -1.156
+TNS   : -17.101
+
+Type  : Fast Model Hold 'KEY[0]'
+Slack : -0.942
+TNS   : -1.883
+
+Type  : Fast Model Minimum Pulse Width 'KEY[0]'
+Slack : -1.222
+TNS   : -172.222
+
+Type  : Fast Model Minimum Pulse Width 'proc:comb_3|regn:reg_IR|Q[7]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

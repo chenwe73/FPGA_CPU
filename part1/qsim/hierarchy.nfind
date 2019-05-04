@@ -1,0 +1,7 @@
+processor
+proc:comb_3|
+proc:comb_3|upcount:Tstep|
+proc:comb_3|dec3to8:decX|
+proc:comb_3|dec3to8:decY|
+proc:comb_3|regn:reg_0|
+proc:comb_3|regn:reg_IR|

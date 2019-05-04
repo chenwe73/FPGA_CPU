@@ -1,0 +1,4 @@
+Mar 28, 2016 10:48:16 AM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/ece342/part7/processor.v --source=C:/ece342/part7/processor.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/chenwe73/AppData/Local/Temp/alt6888_6076829901633768844.dir/0001_sopcqmap/
+Mar 28, 2016 10:48:17 AM com.altera.utilities.Launcher launch
+INFO: Launching:c:/altera/11.1/quartus//bin/quartus_map.exe not_a_project --generate_hdl_interface=C:/ece342/part7/peripheral/peripheral.v --source=C:/ece342/part7/peripheral/peripheral.v --set=HDL_INTERFACE_OUTPUT_PATH=C:/Users/chenwe73/AppData/Local/Temp/alt6888_6076829901633768844.dir/0002_sopcqmap/

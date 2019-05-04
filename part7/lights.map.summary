@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Mar 28 10:51:26 2016
+Quartus II 64-Bit Version : 11.1 Build 259 01/25/2012 SP 2 SJ Full Version
+Revision Name : lights
+Top-level Entity Name : lights
+Family : Cyclone II
+Total logic elements : 1,768
+    Total combinational functions : 1,327
+    Dedicated logic registers : 939
+Total registers : 939
+Total pins : 114
+Total virtual pins : 0
+Total memory bits : 232,576
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
